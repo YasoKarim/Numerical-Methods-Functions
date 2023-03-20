@@ -1,0 +1,28 @@
+#a = input("Enter A")
+#b = input("Enter B")
+#tolerance = input("Enter tolerance")
+#print(f"r : {r}")
+#print(iteration)
+#print(iteration)
+
+#print(f" FunA: {funA[i]} FunB: {funB[i]} FunC: {funC[i]}")
+#print(f"i - 1 : {i -1} i: {i}")
+#print(f"i - 1 : {i -1} i: {i}")
+#a = input("Enter A")
+#b = input("Enter B")
+#tolerance = input("Enter tolerance")
+#print(f"a: {a} , b : {b} , c: {c} , funA : {funA} , funB: {funB} ,  funC: {funC}")
+ #print(f" FunA: {funA[i]} FunB: {funB[i]} FunC: {funC[i]}")
+if(funB[i- 1] * funC[i - 1] < 0):
+    #    print(f" FunA: {funA[i]} FunB: {funB[i]} FunC: {funC[i]}")
+ 
+    #print(f"a: {a} , b : {b} , c: {c} , funA : {funA} , funB: {funB} ,  funC: {funC}")
+
+    #print(f" FunA: {funA[i]} FunB: {funB[i]} FunC: {funC[i]}")
+    print(a)
+print(b)
+print(c)
+print(funA)
+print(funB)
+print(funC)
+print(root_bet)
